@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "a22e240be0222ee56b7a2aad",
+  "owner": "vwuubtacf",
+  "repo": "page-ea5e100dfef7bd97d1df68c4",
+  "title": "V2Club",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ea5e100dfef7bd97d1df68c4",
+      "a": "V2Club",
+      "b": "小火箭节点",
+      "entity": "V2Club",
+      "brand": "V2Club",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3ba99e4a12ea93dd80f6cdfa5d5cd47ff135eac18efb8c444b30284e67b0027b",
+      "content": {
+        "primary_entity": "V2Club",
+        "keyword1": "V2Club",
+        "keyword2": "小火箭节点",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适客户端，订阅配置更简单。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "依据设备与流量需求挑选套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_DESCRIPTION": "，致力于为跨境访问提供稳定高效的网络加速服务。套餐涵盖基础版、旗舰版和团队版，月付 ¥15 起，支持 3 至 20 台设备同时在线。不同档位在流量、流媒体解锁、专线优化和客服支持上有所区别，用户可根据自身设备数量与使用场景灵活选择。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，三个维度快速找到适合的配置。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版、旗舰版、团队版覆盖单人、家庭与小团队，月付 ¥15 起。",
+          "AI_FEATURE_TEXT_2": "按需选择同时在线设备数，从 3 台到 20 台，多终端切换更方便。",
+          "AI_FEATURE_TEXT_3": "年付方案价格更优，旗舰版年付 ¥350，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "套餐档位清晰",
+          "AI_FEATURE_TITLE_2": "设备数量灵活",
+          "AI_FEATURE_TITLE_3": "订阅周期可选",
+          "AI_GUIDE_INTRO": "选择服务、查看设备适配要求、按客户端文档配置订阅，三步即可使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "V2Club 为跨境访问提供网络加速服务，套餐覆盖基础版到团队版，支持多设备同时在线。用户可根据设备数量与流量需求选择合适方案，按客户端文档配置订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "多设备网络加速服务",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，多档套餐可选",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "年付方案价格更优惠",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含专线优化，团队版每月 1000GB 支持 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求选择基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量和客户端类型，确保满足使用场景。",
+          "AI_STEP_TEXT_3": "按照所选客户端文档导入订阅信息，完成配置后即可连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "V2Club 网络加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "V2Club 基础版能同时几台设备在线？",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，适合手机与电脑组合使用。超出设备数时需升级到旗舰版或团队版。",
+          "AI_FAQ_QUESTION_2": "年付比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，相当于支付十个月获得十二个月使用时长。",
+          "AI_FAQ_QUESTION_3": "怎么把订阅导入客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端找到订阅或配置导入入口，粘贴订阅链接后保存并更新节点列表，具体位置参考所用客户端文档。",
+          "AI_FAQ_QUESTION_4": "不同系统应该选哪个客户端？",
+          "AI_FAQ_ANSWER_4": "Windows 和 macOS 使用桌面客户端，Android 安装 APK，iOS 从 App Store 获取对应应用，路由器需刷入支持订阅导入的固件。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备，并提供 VIP 高带宽节点与定制路由，适合小团队协作与多终端办公。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "48566dc057d39d0665f3b429523e6520b97a455586ed312f8e00c8da057a174c",
+    "sitemap.xml": "520330584406ce097484fe9e9fc09140cce3fc887303330d3e1a19c6aa98d9f3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "7f2033b7a82c45a1adb3f99f125a3d643487a5cbd12be5d6d536167c654c8711"
+}
